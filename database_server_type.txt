@@ -1,0 +1,5 @@
+Location: N. Virginia 
+Server Name: us-east-1
+owner: Mongodb
+Cluster Tier: Shared RAM, 512 MB Strorage (encrypted)
+Provider: AWS
